@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratz325
 - 👀 I’m interested in coding and writing
-- 🌱 I’m currently learning Bachelor's in Data Science
+- 🌱 I’m currently pursuing Bachelor's in Data Science
 - 💞️ I’m looking to collaborate on developing more efficient algorithms wherever possible
 - 📫 How to reach me : 
 
