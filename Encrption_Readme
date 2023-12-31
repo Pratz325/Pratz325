@@ -1,6 +1,0 @@
-The 'encryption' function takes in a string. Then iterates through the letters of the string. For each letter, it takes its UTF-8 code.
-Then converts it to the corresponding position of the letter in the Alphabet series. THen it plugs this number into the sine function, which gives a value between -1 and 1.
-Multiply this by 26 and remove the fractional part. Then take the absolute value. The number will be the position of a letter in the Alphabet series.
-Convert this into the corresponding UTF-8 code. Then convert it into a character and append to a list which will be returned.
-
-There is another list which collects the removed fractional parts and is returned with the encrypted string. This was to be used in the decryption function, which isn't finished yet.
